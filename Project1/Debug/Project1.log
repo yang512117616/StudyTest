@@ -1,0 +1,4 @@
+﻿  test4.c
+H:\本地磁盘I\Not++\test4.c(8,12): warning C4101: “k”: 未引用的局部变量
+H:\本地磁盘I\Not++\test4.c(8,15): warning C4101: “l”: 未引用的局部变量
+  Project1.vcxproj -> D:\Visual Studio项目\Project1\Debug\Project1.exe
