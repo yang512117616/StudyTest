@@ -1,0 +1,2 @@
+D:\Visual Studio项目\StudyTest\Project1\x64\Debug\Project1.exe
+D:\Visual Studio项目\StudyTest\Project1\x64\Debug\Project1.pdb
