@@ -15,7 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="test_1.c">
+    <ClCompile Include="int_main.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Rand_Number.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Input_Error.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
