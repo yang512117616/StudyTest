@@ -1,0 +1,2 @@
+D:\Visual Studio项目\StudyTest\Sudy12_18\Debug\Sudy12_18.exe
+D:\Visual Studio项目\StudyTest\Sudy12_18\Debug\Sudy12_18.pdb

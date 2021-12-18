@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="shudown.c">
+    <ClCompile Include="shut_down.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
