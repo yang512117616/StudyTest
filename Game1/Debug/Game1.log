@@ -1,1 +1,6 @@
-﻿  Game1.vcxproj -> D:\Visual Studio项目\StudyTest\Game1\Debug\Game1.exe
+﻿  game.c
+  rule.c
+  test.c
+  正在生成代码...
+D:\Visual Studio项目\StudyTest\Game1\rule.c(7): warning C4716: “IsRule”: 必须返回一个值
+  Game1.vcxproj -> D:\Visual Studio项目\StudyTest\Game1\Debug\Game1.exe
